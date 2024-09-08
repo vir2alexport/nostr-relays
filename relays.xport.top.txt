@@ -306,6 +306,7 @@ nos.nth.io
 nos.plebdrive.com
 nos.relay.lol
 nos.today
+nos.xmark.cc
 nosflare.plebes.fans
 nosflare.royalgarter.workers.dev
 noster.online
